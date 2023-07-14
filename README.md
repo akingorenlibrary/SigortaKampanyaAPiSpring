@@ -24,10 +24,3 @@ insert into kampanya_kategoriler (kategori_adi) values ('Diğer');
 ```
 
 
--------------------------------
-```
-
-### Postman Doküman
-```
-https://documenter.getpostman.com/view/25996098/2s93zB736Q
-```
