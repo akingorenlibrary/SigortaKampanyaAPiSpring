@@ -23,34 +23,7 @@ insert into kampanya_kategoriler (kategori_adi) values ('HS');
 insert into kampanya_kategoriler (kategori_adi) values ('Diğer');
 ```
 
-## API Endpoints
 
-```
--------------------------------
-- GET /api/kampanyaDegisiklikleri/{id}
-
-  Bir ilana ait zamanla oluşan tüm durum değişikliklerini listeleme
-
--------------------------------
-- GET /api/kampanyalar
-
-  Tüm kampanyaları listelemek için
-
--------------------------------
-- POST /api/kampanya
-
-  Kampanya kaydetmek için
-
--------------------------------
-- PUT /api/kampanya
-
-  Bir kampanyayı güncellemek için
-
--------------------------------
-- GET /api/istatistikler
-
-  Kayıtlı tüm kampanyaların toplamda hangi durumlarda olduğunun istatistiksel
-  Aktif: 151, Deaktif: 71 gibi- olarak listelenmesi.
 -------------------------------
 ```
 
